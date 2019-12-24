@@ -35,7 +35,7 @@ https://www.kaggle.com/census/retail-and-retailers-sales-time-series-collection#
 | 1st forecast project interval    | 3                    |
 | 2nd forecast projection interval | 200                  |
 
-After all the parameters are set and the stream is built, I've then feed the data to train the time-series model.
+After all the parameters are set and the stream is built, I've then fed the data to train the time-series model.
 
 
 
@@ -65,7 +65,7 @@ Based on the historic data, I've computed a 200 time interval projection (5 year
 
 # Insight Discovery
 
-In this demo project, we're interested in finding out how many predictors( i.e. Stainless Steel Market vs. Iron Ore Market ) each market is using and how well do they benchmark. 
+In this demo project we're interested in finding out how many predictors( i.e. Stainless Steel Market vs. Iron Ore Market ) each market is using and how well do they benchmark. 
 
 ![image-20191212234723298](Time-Series-Market-Prediction-Project.assets/image-20191212234723298.png)
 
